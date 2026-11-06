@@ -1,0 +1,1504 @@
+
+GROUP 1 | records=2
+  line=43 | id=bastar_0001 | approved=False | status=needs_review
+    title=History of Bastar District
+    url=https://bastar.gov.in/en/about-district/history/
+  line=997 | id=bastar_history_en_001 | approved=False | status=needs_review
+    title=History of Bastar District
+    url=https://bastar.gov.in/en/about-district/history/
+
+GROUP 2 | records=2
+  line=44 | id=bastar_0002 | approved=False | status=needs_review
+    title=बस्तर जिले का इतिहास
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/
+  line=998 | id=bastar_history_hi_001 | approved=False | status=needs_review
+    title=बस्तर जिले का इतिहास
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%87%E0%A4%A4%E0%A4%BF%E0%A4%B9%E0%A4%BE%E0%A4%B8/
+
+GROUP 3 | records=2
+  line=45 | id=bastar_0003 | approved=False | status=needs_review
+    title=Bastar District Demography — Census 2011
+    url=https://bastar.gov.in/en/about-district/demography/
+  line=999 | id=bastar_demography_2011_001 | approved=False | status=needs_review
+    title=Bastar District Demography — Census 2011
+    url=https://bastar.gov.in/en/about-district/demography/
+
+GROUP 4 | records=2
+  line=46 | id=bastar_0004 | approved=False | status=needs_review
+    title=बस्तर जिले की जनसांख्यिकी — जनगणना 2011
+    url=https://bastar.gov.in/जिले-के-बारे-में/जनसांख्यिकी/
+  line=1000 | id=bastar_demography_hindi_001 | approved=False | status=needs_review
+    title=बस्तर जिले की जनसांख्यिकी — जनगणना 2011
+    url=https://bastar.gov.in/जिले-के-बारे-में/जनसांख्यिकी/
+
+GROUP 5 | records=2
+  line=47 | id=bastar_0005 | approved=False | status=needs_review
+    title=Administrative Setup of Bastar District
+    url=https://bastar.gov.in/en/about-district/administrative-setup/
+  line=1001 | id=bastar_admin_setup_001 | approved=False | status=needs_review
+    title=Administrative Setup of Bastar District
+    url=https://bastar.gov.in/en/about-district/administrative-setup/
+
+GROUP 6 | records=2
+  line=48 | id=bastar_0006 | approved=False | status=needs_review
+    title=Bastar District Subdivisions and Development Blocks
+    url=https://bastar.gov.in/en/about-district/administrative-setup/subdivision-blocks/
+  line=1002 | id=bastar_subdivision_blocks_001 | approved=False | status=needs_review
+    title=Bastar District Subdivisions and Development Blocks
+    url=https://bastar.gov.in/en/about-district/administrative-setup/subdivision-blocks/
+
+GROUP 7 | records=2
+  line=49 | id=bastar_0007 | approved=False | status=needs_review
+    title=Tehsils of Bastar District
+    url=https://bastar.gov.in/en/about-district/administrative-setup/tehsil/
+  line=1003 | id=bastar_tehsils_001 | approved=False | status=needs_review
+    title=Tehsils of Bastar District
+    url=https://bastar.gov.in/en/about-district/administrative-setup/tehsil/
+
+GROUP 8 | records=2
+  line=50 | id=bastar_0008 | approved=False | status=needs_review
+    title=बस्तर जिले का प्रशासनिक सेटअप
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%85%E0%A4%AA/
+  line=1004 | id=bastar_admin_setup_hindi_001 | approved=False | status=needs_review
+    title=बस्तर जिले का प्रशासनिक सेटअप
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%85%E0%A4%AA/
+
+GROUP 9 | records=2
+  line=51 | id=bastar_0009 | approved=False | status=needs_review
+    title=बस्तर जिले के उपखंड और विकासखंड
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%85%E0%A4%AA/%E0%A4%89%E0%A4%AA%E0%A4%96%E0%A4%82%E0%A4%A1-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%95/
+  line=1005 | id=bastar_subdivision_blocks_hindi_001 | approved=False | status=needs_review
+    title=बस्तर जिले के उपखंड और विकासखंड
+    url=https://bastar.gov.in/%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A5%87-%E0%A4%95%E0%A5%87-%E0%A4%AC%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%AE%E0%A5%87%E0%A4%82/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%85%E0%A4%AA/%E0%A4%89%E0%A4%AA%E0%A4%96%E0%A4%82%E0%A4%A1-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%95/
+
+GROUP 10 | records=2
+  line=52 | id=bastar_0010 | approved=False | status=needs_review
+    title=Economy of Bastar District
+    url=https://bastar.gov.in/en/about-district/economy/
+  line=1006 | id=bastar_economy_001 | approved=False | status=needs_review
+    title=Economy of Bastar District
+    url=https://bastar.gov.in/en/about-district/economy/
+
+GROUP 11 | records=2
+  line=53 | id=bastar_0011 | approved=False | status=needs_review
+    title=बस्तर जिले की अर्थव्यवस्था
+    url=https://bastar.gov.in/en/about-district/economy/
+  line=1007 | id=bastar_economy_hindi_001 | approved=False | status=needs_review
+    title=बस्तर जिले की अर्थव्यवस्था
+    url=https://bastar.gov.in/en/about-district/economy/
+
+GROUP 12 | records=2
+  line=54 | id=bastar_0012 | approved=False | status=needs_review
+    title=Data Quality Note — Bastar Economy Page
+    url=https://bastar.gov.in/en/about-district/economy/
+  line=1008 | id=bastar_economy_quality_note_001 | approved=False | status=needs_review
+    title=Data Quality Note — Bastar Economy Page
+    url=https://bastar.gov.in/en/about-district/economy/
+
+GROUP 13 | records=2
+  line=55 | id=bastar_0013 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Jagdalpur
+    url=https://bastar.gov.in/en/agriculture/
+  line=1009 | id=bastar_agriculture_landuse_jagdalpur | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Jagdalpur
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 14 | records=2
+  line=56 | id=bastar_0014 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bastar
+    url=https://bastar.gov.in/en/agriculture/
+  line=1010 | id=bastar_agriculture_landuse_bastar | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bastar
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 15 | records=2
+  line=57 | id=bastar_0015 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bakawand
+    url=https://bastar.gov.in/en/agriculture/
+  line=1011 | id=bastar_agriculture_landuse_bakawand | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bakawand
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 16 | records=2
+  line=58 | id=bastar_0016 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Lohandiguda
+    url=https://bastar.gov.in/en/agriculture/
+  line=1012 | id=bastar_agriculture_landuse_lohandiguda | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Lohandiguda
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 17 | records=2
+  line=59 | id=bastar_0017 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Tokpal
+    url=https://bastar.gov.in/en/agriculture/
+  line=1013 | id=bastar_agriculture_landuse_tokpal | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Tokpal
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 18 | records=2
+  line=60 | id=bastar_0018 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bastnar
+    url=https://bastar.gov.in/en/agriculture/
+  line=1014 | id=bastar_agriculture_landuse_bastnar | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Bastnar
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 19 | records=2
+  line=61 | id=bastar_0019 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Dharbha
+    url=https://bastar.gov.in/en/agriculture/
+  line=1015 | id=bastar_agriculture_landuse_dharbha | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — Dharbha
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 20 | records=2
+  line=62 | id=bastar_0020 | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — District total
+    url=https://bastar.gov.in/en/agriculture/
+  line=1016 | id=bastar_agriculture_landuse_district_total | approved=False | status=needs_review
+    title=Bastar agriculture land-use figures — District total
+    url=https://bastar.gov.in/en/agriculture/
+
+GROUP 21 | records=2
+  line=63 | id=bastar_0021 | approved=False | status=needs_review
+    title=Bastar district agriculture department and schemes
+    url=https://bastar.gov.in/en/departments/agriculture/
+  line=1017 | id=bastar_agriculture_page_summary | approved=False | status=needs_review
+    title=Bastar district agriculture department and schemes
+    url=https://bastar.gov.in/en/departments/agriculture/
+
+GROUP 22 | records=2
+  line=64 | id=bastar_0022 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: land utilization, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1018 | id=bastar_agri_stats_land_utilization_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: land utilization, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 23 | records=2
+  line=65 | id=bastar_0023 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: major crop area, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1019 | id=bastar_agri_stats_crop_area_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: major crop area, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 24 | records=2
+  line=66 | id=bastar_0024 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: major crop production, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1020 | id=bastar_agri_stats_crop_production_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: major crop production, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 25 | records=2
+  line=67 | id=bastar_0025 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: irrigation, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1021 | id=bastar_agri_stats_irrigation_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: irrigation, 2016–17
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 26 | records=2
+  line=68 | id=bastar_0026 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: area under advanced agriculture practices
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1022 | id=bastar_agri_stats_advanced_agriculture_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: area under advanced agriculture practices
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 27 | records=2
+  line=69 | id=bastar_0027 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: agricultural machinery and equipment
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+  line=1023 | id=bastar_agri_stats_farm_machinery_2016_17 | approved=False | status=needs_review
+    title=Bastar agriculture statistics: agricultural machinery and equipment
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/07/2018070548.pdf
+
+GROUP 28 | records=2
+  line=70 | id=bastar_0028 | approved=False | status=needs_review
+    title=Data quality note: Bastar Agricultural Statistics Report 2017–18
+    url=https://bastar.gov.in/en/departments/agriculture/
+  line=1024 | id=bastar_agri_stats_quality_note | approved=False | status=needs_review
+    title=Data quality note: Bastar Agricultural Statistics Report 2017–18
+    url=https://bastar.gov.in/en/departments/agriculture/
+
+GROUP 29 | records=2
+  line=71 | id=bastar_0029 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — overview and geography
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+  line=1025 | id=bastar_dsr_2026_overview | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — overview and geography
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+
+GROUP 30 | records=2
+  line=72 | id=bastar_0030 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — overview of mining activities
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+  line=1026 | id=bastar_dsr_2026_mining_overview | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — overview of mining activities
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+
+GROUP 31 | records=2
+  line=73 | id=bastar_0031 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — major mineral leases
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+  line=1027 | id=bastar_dsr_2026_mineral_leases | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — major mineral leases
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+
+GROUP 32 | records=2
+  line=74 | id=bastar_0032 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — sand mining leases
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+  line=1028 | id=bastar_dsr_2026_sand_leases | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — sand mining leases
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+
+GROUP 33 | records=2
+  line=75 | id=bastar_0033 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — sand production and royalty table
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+  line=1029 | id=bastar_dsr_2026_sand_production_revenue | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — sand production and royalty table
+    url=https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2026/10/17920450648621.pdf
+
+GROUP 34 | records=2
+  line=76 | id=bastar_0034 | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — publication and review status
+    url=https://bastar.gov.in/en/notice/district-survey-report-bastar-office-of-the-collector-mineral-branch-bastar-district-jagdalpur/
+  line=1030 | id=bastar_dsr_2026_notice_status | approved=False | status=needs_review
+    title=Bastar District Survey Report 2026 — publication and review status
+    url=https://bastar.gov.in/en/notice/district-survey-report-bastar-office-of-the-collector-mineral-branch-bastar-district-jagdalpur/
+
+GROUP 35 | records=2
+  line=77 | id=bastar_0035 | approved=False | status=needs_review
+    title=Bastar culture and heritage — overview
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+  line=1031 | id=bastar_culture_heritage_overview | approved=False | status=needs_review
+    title=Bastar culture and heritage — overview
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+
+GROUP 36 | records=2
+  line=78 | id=bastar_0036 | approved=False | status=needs_review
+    title=Bastar Dussehra — festival traditions
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+  line=1032 | id=bastar_bastar_dussehra | approved=False | status=needs_review
+    title=Bastar Dussehra — festival traditions
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+
+GROUP 37 | records=2
+  line=79 | id=bastar_0037 | approved=False | status=needs_review
+    title=Bastar memorial pillars — Gudi tradition
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+  line=1033 | id=bastar_memorial_pillars | approved=False | status=needs_review
+    title=Bastar memorial pillars — Gudi tradition
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+
+GROUP 38 | records=2
+  line=80 | id=bastar_0038 | approved=False | status=needs_review
+    title=Ghotul tradition in Bastar
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+  line=1034 | id=bastar_ghotul_tradition | approved=False | status=needs_review
+    title=Ghotul tradition in Bastar
+    url=https://bastar.gov.in/en/tourism/culture-heritage/
+
+GROUP 39 | records=2
+  line=81 | id=bastar_0039 | approved=False | status=needs_review
+    title=Traditional handicrafts of Bastar
+    url=https://bastar.gov.in/en/departments/handicraft/
+  line=1035 | id=bastar_handicrafts_types | approved=False | status=needs_review
+    title=Traditional handicrafts of Bastar
+    url=https://bastar.gov.in/en/departments/handicraft/
+
+GROUP 40 | records=2
+  line=82 | id=bastar_0040 | approved=False | status=needs_review
+    title=Dhokra and bell-metal craft in Bastar
+    url=https://bastar.gov.in/en/departments/handicraft/
+  line=1036 | id=bastar_dhokra_bell_metal | approved=False | status=needs_review
+    title=Dhokra and bell-metal craft in Bastar
+    url=https://bastar.gov.in/en/departments/handicraft/
+
+GROUP 41 | records=2
+  line=83 | id=bastar_0041 | approved=False | status=needs_review
+    title=Data quality note — Bastar culture and handicrafts
+    url=https://bastar.gov.in/en/tourism/culture-heritage/ | https://bastar.gov.in/en/departments/handicraft/
+  line=1037 | id=bastar_culture_data_quality_note | approved=False | status=needs_review
+    title=Data quality note — Bastar culture and handicrafts
+    url=https://bastar.gov.in/en/tourism/culture-heritage/ | https://bastar.gov.in/en/departments/handicraft/
+
+GROUP 42 | records=2
+  line=84 | id=bastar_0042 | approved=False | status=needs_review
+    title=Places of interest in Bastar — overview
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1038 | id=bastar_places_of_interest_overview | approved=False | status=needs_review
+    title=Places of interest in Bastar — overview
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 43 | records=2
+  line=85 | id=bastar_0043 | approved=False | status=needs_review
+    title=Chitrakote Waterfall — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1039 | id=bastar_chitrakote_waterfall | approved=False | status=needs_review
+    title=Chitrakote Waterfall — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 44 | records=2
+  line=86 | id=bastar_0044 | approved=False | status=needs_review
+    title=Tirathgarh Waterfall — Kanger Valley
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1040 | id=bastar_tirathgarh_waterfall | approved=False | status=needs_review
+    title=Tirathgarh Waterfall — Kanger Valley
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 45 | records=2
+  line=87 | id=bastar_0045 | approved=False | status=needs_review
+    title=Kanger Valley National Park — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1041 | id=bastar_kanger_valley_national_park | approved=False | status=needs_review
+    title=Kanger Valley National Park — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 46 | records=2
+  line=88 | id=bastar_0046 | approved=False | status=needs_review
+    title=Kotumsar Cave — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1042 | id=bastar_kotumsar_cave | approved=False | status=needs_review
+    title=Kotumsar Cave — Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 47 | records=2
+  line=89 | id=bastar_0047 | approved=False | status=needs_review
+    title=Kailash Cave — Bastar
+    url=https://bastar.gov.in/en/tourist-place/kailash-cave/
+  line=1043 | id=bastar_kailash_cave | approved=False | status=needs_review
+    title=Kailash Cave — Bastar
+    url=https://bastar.gov.in/en/tourist-place/kailash-cave/
+
+GROUP 48 | records=2
+  line=90 | id=bastar_0048 | approved=False | status=needs_review
+    title=Cultural and heritage attractions in Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1044 | id=bastar_culture_tourism_sites | approved=False | status=needs_review
+    title=Cultural and heritage attractions in Bastar
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 49 | records=2
+  line=91 | id=bastar_0049 | approved=False | status=needs_review
+    title=Data quality note — Bastar places of interest
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+  line=1045 | id=bastar_places_of_interest_quality_note | approved=False | status=needs_review
+    title=Data quality note — Bastar places of interest
+    url=https://bastar.gov.in/en/tourism/places-of-interest/
+
+GROUP 50 | records=2
+  line=92 | id=bastar_0050 | approved=False | status=needs_review
+    title=How to reach Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+  line=1046 | id=bastar_how_to_reach_overview | approved=False | status=needs_review
+    title=How to reach Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+
+GROUP 51 | records=2
+  line=93 | id=bastar_0051 | approved=False | status=needs_review
+    title=Air travel to Bastar
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+  line=1047 | id=bastar_air_access | approved=False | status=needs_review
+    title=Air travel to Bastar
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+
+GROUP 52 | records=2
+  line=94 | id=bastar_0052 | approved=False | status=needs_review
+    title=Road access to Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+  line=1048 | id=bastar_road_access | approved=False | status=needs_review
+    title=Road access to Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+
+GROUP 53 | records=2
+  line=95 | id=bastar_0053 | approved=False | status=needs_review
+    title=Rail access to Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+  line=1049 | id=bastar_rail_access | approved=False | status=needs_review
+    title=Rail access to Bastar and Jagdalpur
+    url=https://bastar.gov.in/en/tourism/how-to-reach/
+
+GROUP 54 | records=2
+  line=96 | id=bastar_0054 | approved=False | status=needs_review
+    title=कैसे पहुंचें — बस्तर
+    url=https://bastar.gov.in/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%A8/%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%87%E0%A4%82/
+  line=1050 | id=bastar_how_to_reach_hindi_source | approved=False | status=needs_review
+    title=कैसे पहुंचें — बस्तर
+    url=https://bastar.gov.in/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%A8/%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%87%E0%A4%82/
+
+GROUP 55 | records=2
+  line=97 | id=bastar_0055 | approved=False | status=needs_review
+    title=Data quality note — Bastar transport information
+    url=https://bastar.gov.in/en/tourism/how-to-reach/ | https://bastar.gov.in/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%A8/%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%87%E0%A4%82/
+  line=1051 | id=bastar_transport_quality_note | approved=False | status=needs_review
+    title=Data quality note — Bastar transport information
+    url=https://bastar.gov.in/en/tourism/how-to-reach/ | https://bastar.gov.in/%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9F%E0%A4%A8/%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87-%E0%A4%AA%E0%A4%B9%E0%A5%81%E0%A4%82%E0%A4%9A%E0%A5%87%E0%A4%82/
+
+GROUP 56 | records=2
+  line=115 | id=bijapur_0001 | approved=False | status=needs_review
+    title=About Bijapur District
+    url=https://bijapur.gov.in/en/about-district/
+  line=1052 | id=bijapur_about_en_001 | approved=False | status=needs_review
+    title=About Bijapur District
+    url=https://bijapur.gov.in/en/about-district/
+
+GROUP 57 | records=2
+  line=116 | id=bijapur_0002 | approved=False | status=needs_review
+    title=Bijapur District Demography — Census 2011 and Statistical Handbook 2019–20
+    url=https://bijapur.gov.in/en/demography/
+  line=1053 | id=bijapur_demography_en_001 | approved=False | status=needs_review
+    title=Bijapur District Demography — Census 2011 and Statistical Handbook 2019–20
+    url=https://bijapur.gov.in/en/demography/
+
+GROUP 58 | records=2
+  line=117 | id=bijapur_0003 | approved=False | status=needs_review
+    title=Bijapur District Subdivisions and Blocks
+    url=https://bijapur.gov.in/en/subdivision-blocks/
+  line=1054 | id=bijapur_admin_blocks_en_001 | approved=False | status=needs_review
+    title=Bijapur District Subdivisions and Blocks
+    url=https://bijapur.gov.in/en/subdivision-blocks/
+
+GROUP 59 | records=2
+  line=118 | id=bijapur_0004 | approved=False | status=needs_review
+    title=Tourism and Places of Interest in Bijapur District
+    url=https://bijapur.gov.in/en/tourism/
+  line=1055 | id=bijapur_tourism_en_001 | approved=False | status=needs_review
+    title=Tourism and Places of Interest in Bijapur District
+    url=https://bijapur.gov.in/en/tourism/
+
+GROUP 60 | records=2
+  line=119 | id=bijapur_0005 | approved=False | status=needs_review
+    title=Bijapur District at a Glance — Homepage Summary
+    url=https://bijapur.gov.in/en/
+  line=1056 | id=bijapur_home_glance_en_001 | approved=False | status=needs_review
+    title=Bijapur District at a Glance — Homepage Summary
+    url=https://bijapur.gov.in/en/
+
+GROUP 61 | records=2
+  line=120 | id=bijapur_0006 | approved=False | status=needs_review
+    title=बीजापुर जिले की जनसांख्यिकी — जनगणना 2011 एवं सांख्यिकीय पुस्तिका 2019–20
+    url=https://bijapur.gov.in/%E0%A4%9C%E0%A4%A8%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BF%E0%A4%95%E0%A5%80/
+  line=1057 | id=bijapur_demography_hi_001 | approved=False | status=needs_review
+    title=बीजापुर जिले की जनसांख्यिकी — जनगणना 2011 एवं सांख्यिकीय पुस्तिका 2019–20
+    url=https://bijapur.gov.in/%E0%A4%9C%E0%A4%A8%E0%A4%B8%E0%A4%BE%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%BF%E0%A4%95%E0%A5%80/
+
+GROUP 62 | records=2
+  line=121 | id=bijapur_0007 | approved=False | status=needs_review
+    title=History and Geography of Bijapur District
+    url=https://bijapur.gov.in/en/history/
+  line=1058 | id=bijapur_history_en_001 | approved=False | status=needs_review
+    title=History and Geography of Bijapur District
+    url=https://bijapur.gov.in/en/history/
+
+GROUP 63 | records=2
+  line=122 | id=bijapur_0008 | approved=False | status=needs_review
+    title=Administrative Setup of Bijapur District
+    url=https://bijapur.gov.in/en/administrative-setup/
+  line=1059 | id=bijapur_administrative_setup_en_001 | approved=False | status=needs_review
+    title=Administrative Setup of Bijapur District
+    url=https://bijapur.gov.in/en/administrative-setup/
+
+GROUP 64 | records=2
+  line=123 | id=bijapur_0009 | approved=False | status=needs_review
+    title=Culture and Heritage of Bijapur District
+    url=https://bijapur.gov.in/en/culture-heritage/
+  line=1060 | id=bijapur_culture_heritage_en_001 | approved=False | status=needs_review
+    title=Culture and Heritage of Bijapur District
+    url=https://bijapur.gov.in/en/culture-heritage/
+
+GROUP 65 | records=2
+  line=124 | id=bijapur_0010 | approved=False | status=needs_review
+    title=How to Reach Bijapur District
+    url=https://bijapur.gov.in/en/how-to-reach/
+  line=1061 | id=bijapur_how_to_reach_en_001 | approved=False | status=needs_review
+    title=How to Reach Bijapur District
+    url=https://bijapur.gov.in/en/how-to-reach/
+
+GROUP 66 | records=2
+  line=125 | id=bijapur_0011 | approved=False | status=needs_review
+    title=Official Places of Interest Directory — Bijapur
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1062 | id=bijapur_places_of_interest_en_001 | approved=False | status=needs_review
+    title=Official Places of Interest Directory — Bijapur
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 67 | records=2
+  line=126 | id=bijapur_0012 | approved=False | status=needs_review
+    title=Bhairamdev Historical and Religious Site, Bhairamgarh
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1063 | id=bijapur_bhairamdev_en_001 | approved=False | status=needs_review
+    title=Bhairamdev Historical and Religious Site, Bhairamgarh
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 68 | records=2
+  line=127 | id=bijapur_0013 | approved=False | status=needs_review
+    title=Bhadrakali Temple near Bhopalpatnam
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1064 | id=bijapur_bhadrakali_en_001 | approved=False | status=needs_review
+    title=Bhadrakali Temple near Bhopalpatnam
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 69 | records=2
+  line=128 | id=bijapur_0014 | approved=False | status=needs_review
+    title=Sakal Narayan Cave and Temple
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1065 | id=bijapur_sakal_narayan_cave_en_001 | approved=False | status=needs_review
+    title=Sakal Narayan Cave and Temple
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 70 | records=2
+  line=129 | id=bijapur_0015 | approved=False | status=needs_review
+    title=Nambi, Neelam Sarai, and Lankapalli Waterfalls
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1066 | id=bijapur_waterfalls_en_001 | approved=False | status=needs_review
+    title=Nambi, Neelam Sarai, and Lankapalli Waterfalls
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 71 | records=2
+  line=130 | id=bijapur_0016 | approved=False | status=needs_review
+    title=Indravati National Park and Wildlife Sanctuaries
+    url=https://bijapur.gov.in/en/places-of-interest/
+  line=1067 | id=bijapur_protected_areas_en_001 | approved=False | status=needs_review
+    title=Indravati National Park and Wildlife Sanctuaries
+    url=https://bijapur.gov.in/en/places-of-interest/
+
+GROUP 72 | records=2
+  line=131 | id=bijapur_0017 | approved=False | status=needs_review
+    title=Government Schemes Directory on Bijapur District Portal
+    url=https://bijapur.gov.in/en/schemes/
+  line=1068 | id=bijapur_schemes_directory_en_001 | approved=False | status=needs_review
+    title=Government Schemes Directory on Bijapur District Portal
+    url=https://bijapur.gov.in/en/schemes/
+
+GROUP 73 | records=2
+  line=132 | id=bijapur_0018 | approved=False | status=needs_review
+    title=Events and Upcoming Events Status on Bijapur District Portal
+    url=https://bijapur.gov.in/en/events/
+  line=1069 | id=bijapur_events_status_en_001 | approved=False | status=needs_review
+    title=Events and Upcoming Events Status on Bijapur District Portal
+    url=https://bijapur.gov.in/en/events/
+
+GROUP 74 | records=2
+  line=133 | id=bijapur_0019 | approved=False | status=needs_review
+    title=Documents Directory — Bijapur District Portal
+    url=https://bijapur.gov.in/en/documents/
+  line=1070 | id=bijapur_documents_directory_en_001 | approved=False | status=needs_review
+    title=Documents Directory — Bijapur District Portal
+    url=https://bijapur.gov.in/en/documents/
+
+GROUP 75 | records=2
+  line=134 | id=bijapur_0020 | approved=False | status=needs_review
+    title=Draft District Survey Report — Public Objections Notice
+    url=https://bijapur.gov.in/en/notice/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%96%E0%A4%A8%E0%A4%BF%E0%A4%9C-%E0%A4%B6%E0%A4%BE-9/
+  line=1071 | id=bijapur_mineral_survey_notice_2026_en_001 | approved=False | status=needs_review
+    title=Draft District Survey Report — Public Objections Notice
+    url=https://bijapur.gov.in/en/notice/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF-%E0%A4%95%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%9F%E0%A4%B0-%E0%A4%96%E0%A4%A8%E0%A4%BF%E0%A4%9C-%E0%A4%B6%E0%A4%BE-9/
+
+GROUP 76 | records=2
+  line=149 | id=dantewada_0001 | approved=False | status=needs_review
+    title=Government Departments on Dantewada District Portal
+    url=https://dantewada.gov.in/en/departments/
+  line=1072 | id=dantewada_portal_departments_en_001 | approved=False | status=needs_review
+    title=Government Departments on Dantewada District Portal
+    url=https://dantewada.gov.in/en/departments/
+
+GROUP 77 | records=2
+  line=150 | id=dantewada_0002 | approved=False | status=needs_review
+    title=Dantewada Official Documents Directory
+    url=https://dantewada.gov.in/documents/
+  line=1073 | id=dantewada_documents_index_en_001 | approved=False | status=needs_review
+    title=Dantewada Official Documents Directory
+    url=https://dantewada.gov.in/documents/
+
+GROUP 78 | records=2
+  line=151 | id=dantewada_0003 | approved=False | status=needs_review
+    title=Dantewada District Tourism Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1074 | id=dantewada_tourism_gallery_en_001 | approved=False | status=needs_review
+    title=Dantewada District Tourism Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 79 | records=2
+  line=152 | id=dantewada_0004 | approved=False | status=needs_review
+    title=Archived Events on the Dantewada District Portal
+    url=https://dantewada.gov.in/past-events/index.html
+  line=1075 | id=dantewada_past_events_en_001 | approved=False | status=needs_review
+    title=Archived Events on the Dantewada District Portal
+    url=https://dantewada.gov.in/past-events/index.html
+
+GROUP 80 | records=2
+  line=153 | id=dantewada_0005 | approved=False | status=needs_review
+    title=Dantewada Recruitment Notice Index — July 2026 Snapshot
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+  line=1076 | id=dantewada_recruitment_notice_index_en_001 | approved=False | status=needs_review
+    title=Dantewada Recruitment Notice Index — July 2026 Snapshot
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+
+GROUP 81 | records=2
+  line=154 | id=dantewada_0006 | approved=False | status=needs_review
+    title=Dantewada District Survey Report 2025 — Document Index Entry
+    url=https://dantewada.gov.in/documents/
+  line=1077 | id=dantewada_district_survey_report_2025_index_en_001 | approved=False | status=needs_review
+    title=Dantewada District Survey Report 2025 — Document Index Entry
+    url=https://dantewada.gov.in/documents/
+
+GROUP 82 | records=2
+  line=155 | id=dantewada_0007 | approved=False | status=needs_review
+    title=दंतेवाड़ा जिला पोर्टल की ऑनलाइन सेवाएँ
+    url=https://dantewada.gov.in/services/
+  line=1078 | id=dantewada_services_directory_hi_001 | approved=False | status=needs_review
+    title=दंतेवाड़ा जिला पोर्टल की ऑनलाइन सेवाएँ
+    url=https://dantewada.gov.in/services/
+
+GROUP 83 | records=2
+  line=156 | id=dantewada_0008 | approved=False | status=needs_review
+    title=Dantewada District Portal — Content Ownership and Hosting
+    url=https://dantewada.gov.in/en/departments/
+  line=1079 | id=dantewada_portal_ownership_en_001 | approved=False | status=needs_review
+    title=Dantewada District Portal — Content Ownership and Hosting
+    url=https://dantewada.gov.in/en/departments/
+
+GROUP 84 | records=2
+  line=157 | id=dantewada_0009 | approved=False | status=needs_review
+    title=Dantewada Tourism Gallery — Named Sites
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1080 | id=dantewada_tourism_gallery_sites_en_001 | approved=False | status=needs_review
+    title=Dantewada Tourism Gallery — Named Sites
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 85 | records=2
+  line=158 | id=dantewada_0010 | approved=False | status=needs_review
+    title=Dantewada Land Acquisition Documents — 2026 Index Snapshot
+    url=https://dantewada.gov.in/documents/
+  line=1081 | id=dantewada_documents_land_acquisition_2026_en_001 | approved=False | status=needs_review
+    title=Dantewada Land Acquisition Documents — 2026 Index Snapshot
+    url=https://dantewada.gov.in/documents/
+
+GROUP 86 | records=2
+  line=159 | id=dantewada_0011 | approved=False | status=needs_review
+    title=Dantewada Social Impact Assessment and Public Hearing Documents
+    url=https://dantewada.gov.in/documents/
+  line=1082 | id=dantewada_sia_public_hearing_docs_en_001 | approved=False | status=needs_review
+    title=Dantewada Social Impact Assessment and Public Hearing Documents
+    url=https://dantewada.gov.in/documents/
+
+GROUP 87 | records=2
+  line=160 | id=dantewada_0012 | approved=False | status=needs_review
+    title=Dantewada District Survey Report 2025 — Extraction Status
+    url=https://dantewada.gov.in/documents/
+  line=1083 | id=dantewada_district_survey_report_2025_quality_en_001 | approved=False | status=needs_review
+    title=Dantewada District Survey Report 2025 — Extraction Status
+    url=https://dantewada.gov.in/documents/
+
+GROUP 88 | records=2
+  line=161 | id=dantewada_0013 | approved=False | status=needs_review
+    title=Dantewada Recruitment Notices — July 2026 Historical Snapshot
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+  line=1084 | id=dantewada_recruitment_archived_status_en_001 | approved=False | status=needs_review
+    title=Dantewada Recruitment Notices — July 2026 Historical Snapshot
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+
+GROUP 89 | records=2
+  line=162 | id=dantewada_0014 | approved=False | status=needs_review
+    title=Dantewada Past Events Archive — Historical Status
+    url=https://dantewada.gov.in/past-events/index.html
+  line=1085 | id=dantewada_past_events_archive_quality_en_001 | approved=False | status=needs_review
+    title=Dantewada Past Events Archive — Historical Status
+    url=https://dantewada.gov.in/past-events/index.html
+
+GROUP 90 | records=2
+  line=163 | id=dantewada_0015 | approved=False | status=needs_review
+    title=Dantewada Official Portal — Available Information Categories
+    url=https://dantewada.gov.in/en/
+  line=1086 | id=dantewada_official_site_topics_en_001 | approved=False | status=needs_review
+    title=Dantewada Official Portal — Available Information Categories
+    url=https://dantewada.gov.in/en/
+
+GROUP 91 | records=2
+  line=164 | id=dantewada_0016 | approved=False | status=needs_review
+    title=Online Services Directory — Dantewada
+    url=https://dantewada.gov.in/en/services/
+  line=1087 | id=dantewada_services_directory_en_001 | approved=False | status=needs_review
+    title=Online Services Directory — Dantewada
+    url=https://dantewada.gov.in/en/services/
+
+GROUP 92 | records=2
+  line=165 | id=dantewada_0017 | approved=False | status=needs_review
+    title=Land Acquisition and Social Impact Documents — Dantewada
+    url=https://dantewada.gov.in/documents/
+  line=1088 | id=dantewada_land_acquisition_index_2026_en_001 | approved=False | status=needs_review
+    title=Land Acquisition and Social Impact Documents — Dantewada
+    url=https://dantewada.gov.in/documents/
+
+GROUP 93 | records=2
+  line=166 | id=dantewada_0018 | approved=False | status=needs_review
+    title=District Survey Report Dantewada 2025 — Metadata Record
+    url=https://dantewada.gov.in/documents/
+  line=1089 | id=dantewada_mineral_survey_report_metadata_en_001 | approved=False | status=needs_review
+    title=District Survey Report Dantewada 2025 — Metadata Record
+    url=https://dantewada.gov.in/documents/
+
+GROUP 94 | records=2
+  line=167 | id=dantewada_0019 | approved=False | status=needs_review
+    title=Tourism Sites Listed in Dantewada District Photo Gallery
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1090 | id=dantewada_tourism_places_index_en_001 | approved=False | status=needs_review
+    title=Tourism Sites Listed in Dantewada District Photo Gallery
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 95 | records=2
+  line=168 | id=dantewada_0020 | approved=False | status=needs_review
+    title=Handling Archived Events in Dantewada RAG Data
+    url=https://dantewada.gov.in/past-events/index.html
+  line=1091 | id=dantewada_archived_events_temporal_policy_en_001 | approved=False | status=needs_review
+    title=Handling Archived Events in Dantewada RAG Data
+    url=https://dantewada.gov.in/past-events/index.html
+
+GROUP 96 | records=2
+  line=169 | id=dantewada_0021 | approved=False | status=needs_review
+    title=Handling Recruitment Notices in Dantewada RAG Data
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+  line=1092 | id=dantewada_recruitment_temporal_policy_en_001 | approved=False | status=needs_review
+    title=Handling Recruitment Notices in Dantewada RAG Data
+    url=https://dantewada.gov.in/en/notice_category/recruitment/
+
+GROUP 97 | records=2
+  line=170 | id=dantewada_0022 | approved=False | status=needs_review
+    title=Bacheli — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1093 | id=dantewada_gallery_bacheli_index_en_001 | approved=False | status=needs_review
+    title=Bacheli — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 98 | records=2
+  line=171 | id=dantewada_0023 | approved=False | status=needs_review
+    title=Fulpad Waterfall — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1094 | id=dantewada_gallery_fulpad_waterfall_index_en_001 | approved=False | status=needs_review
+    title=Fulpad Waterfall — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 99 | records=2
+  line=172 | id=dantewada_0024 | approved=False | status=needs_review
+    title=Samlur Shiva Temple — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1095 | id=dantewada_gallery_samlur_shiva_temple_index_en_001 | approved=False | status=needs_review
+    title=Samlur Shiva Temple — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 100 | records=2
+  line=173 | id=dantewada_0025 | approved=False | status=needs_review
+    title=Barsur — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1096 | id=dantewada_gallery_barsur_index_en_001 | approved=False | status=needs_review
+    title=Barsur — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 101 | records=2
+  line=174 | id=dantewada_0026 | approved=False | status=needs_review
+    title=Dholkal Ganesh — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+  line=1097 | id=dantewada_gallery_dholkal_ganesh_index_en_001 | approved=False | status=needs_review
+    title=Dholkal Ganesh — Official District Photo Gallery Index
+    url=https://dantewada.gov.in/en/photo-gallery/
+
+GROUP 102 | records=2
+  line=175 | id=dantewada_0027 | approved=False | status=needs_review
+    title=District Survey Report Dantewada 2025 — Extraction and Validation Status
+    url=https://dantewada.gov.in/documents/
+  line=1098 | id=dantewada_dsr_2025_extraction_gap_en_001 | approved=False | status=needs_review
+    title=District Survey Report Dantewada 2025 — Extraction and Validation Status
+    url=https://dantewada.gov.in/documents/
+
+GROUP 103 | records=2
+  line=176 | id=dantewada_0028 | approved=False | status=needs_review
+    title=Dantewada District at a Glance — Official Portal Snapshot
+    url=https://dantewada.nic.in/en/
+  line=1099 | id=dantewada_district_at_a_glance_2026_en_001 | approved=False | status=needs_review
+    title=Dantewada District at a Glance — Official Portal Snapshot
+    url=https://dantewada.nic.in/en/
+
+GROUP 104 | records=2
+  line=177 | id=dantewada_0029 | approved=False | status=needs_review
+    title=Dantewada Places of Interest — Official Tourism Overview
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+  line=1100 | id=dantewada_places_of_interest_overview_en_001 | approved=False | status=needs_review
+    title=Dantewada Places of Interest — Official Tourism Overview
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+
+GROUP 105 | records=2
+  line=178 | id=dantewada_0030 | approved=False | status=needs_review
+    title=Barsur — Official District Tourism Description
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+  line=1101 | id=dantewada_barsur_heritage_en_001 | approved=False | status=needs_review
+    title=Barsur — Official District Tourism Description
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+
+GROUP 106 | records=2
+  line=179 | id=dantewada_0031 | approved=False | status=needs_review
+    title=Bailadila, Bacheli and Kirandul — Official Tourism Description
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+  line=1102 | id=dantewada_bailadila_access_en_001 | approved=False | status=needs_review
+    title=Bailadila, Bacheli and Kirandul — Official Tourism Description
+    url=https://dantewada.nic.in/en/tourism/places-of-interest/
+
+GROUP 107 | records=2
+  line=180 | id=dantewada_0032 | approved=False | status=needs_review
+    title=Dantewada Culture and Heritage — Official District Overview
+    url=https://dantewada.nic.in/en/tourism/culture-heritage/
+  line=1103 | id=dantewada_culture_heritage_official_overview_en_001 | approved=False | status=needs_review
+    title=Dantewada Culture and Heritage — Official District Overview
+    url=https://dantewada.nic.in/en/tourism/culture-heritage/
+
+GROUP 108 | records=2
+  line=181 | id=dantewada_0033 | approved=False | status=needs_review
+    title=Dantewada Official Site Map — Collection Coverage Checklist
+    url=https://dantewada.nic.in/en/site-map/
+  line=1104 | id=dantewada_site_map_collection_plan_en_001 | approved=False | status=needs_review
+    title=Dantewada Official Site Map — Collection Coverage Checklist
+    url=https://dantewada.nic.in/en/site-map/
+
+GROUP 109 | records=2
+  line=499 | id=sukma_0001 | approved=False | status=needs_review
+    title=About Sukma District
+    url=https://sukma.gov.in/en/about-district/
+  line=1105 | id=sukma_about_district_en_001 | approved=False | status=needs_review
+    title=About Sukma District
+    url=https://sukma.gov.in/en/about-district/
+
+GROUP 110 | records=2
+  line=500 | id=sukma_0002 | approved=False | status=needs_review
+    title=History of Sukma District
+    url=https://sukma.gov.in/en/history/
+  line=1106 | id=sukma_history_en_001 | approved=False | status=needs_review
+    title=History of Sukma District
+    url=https://sukma.gov.in/en/history/
+
+GROUP 111 | records=2
+  line=501 | id=sukma_0003 | approved=False | status=needs_review
+    title=Sukma Demography — Census 2011 Reference
+    url=https://sukma.gov.in/en/demography/
+  line=1107 | id=sukma_demography_en_001 | approved=False | status=needs_review
+    title=Sukma Demography — Census 2011 Reference
+    url=https://sukma.gov.in/en/demography/
+
+GROUP 112 | records=2
+  line=502 | id=sukma_0004 | approved=False | status=needs_review
+    title=Places of Interest in Sukma District
+    url=https://sukma.gov.in/en/places-of-interest/
+  line=1108 | id=sukma_places_of_interest_en_001 | approved=False | status=needs_review
+    title=Places of Interest in Sukma District
+    url=https://sukma.gov.in/en/places-of-interest/
+
+GROUP 113 | records=2
+  line=503 | id=sukma_0005 | approved=False | status=needs_review
+    title=Dudma Tourist Spot
+    url=https://sukma.gov.in/en/tourist-place/dudma-tourist-spot/
+  line=1109 | id=sukma_dudma_tourist_spot_en_001 | approved=False | status=needs_review
+    title=Dudma Tourist Spot
+    url=https://sukma.gov.in/en/tourist-place/dudma-tourist-spot/
+
+GROUP 114 | records=2
+  line=504 | id=sukma_0006 | approved=False | status=needs_review
+    title=Culture and Heritage — Injeram
+    url=https://sukma.gov.in/en/culture-heritage/
+  line=1110 | id=sukma_culture_heritage_en_001 | approved=False | status=needs_review
+    title=Culture and Heritage — Injeram
+    url=https://sukma.gov.in/en/culture-heritage/
+
+GROUP 115 | records=2
+  line=505 | id=sukma_0007 | approved=False | status=needs_review
+    title=How to Reach Sukma
+    url=https://sukma.gov.in/en/how-to-reach/
+  line=1111 | id=sukma_how_to_reach_en_001 | approved=False | status=needs_review
+    title=How to Reach Sukma
+    url=https://sukma.gov.in/en/how-to-reach/
+
+GROUP 116 | records=2
+  line=506 | id=sukma_0008 | approved=False | status=needs_review
+    title=Administrative Setup of Sukma District
+    url=https://sukma.gov.in/en/administrative-setup/
+  line=1112 | id=sukma_administrative_setup_en_001 | approved=False | status=needs_review
+    title=Administrative Setup of Sukma District
+    url=https://sukma.gov.in/en/administrative-setup/
+
+GROUP 117 | records=2
+  line=507 | id=sukma_0009 | approved=False | status=needs_review
+    title=Sukma Official Site Map — Data Collection Inventory
+    url=https://sukma.gov.in/en/site-map/
+  line=1113 | id=sukma_site_map_source_inventory_en_001 | approved=False | status=needs_review
+    title=Sukma Official Site Map — Data Collection Inventory
+    url=https://sukma.gov.in/en/site-map/
+
+GROUP 118 | records=2
+  line=508 | id=sukma_0010 | approved=False | status=needs_review
+    title=Sukma District at a Glance — Homepage Snapshot
+    url=https://sukma.gov.in/en/
+  line=1114 | id=sukma_homepage_glance_en_001 | approved=False | status=needs_review
+    title=Sukma District at a Glance — Homepage Snapshot
+    url=https://sukma.gov.in/en/
+
+GROUP 119 | records=2
+  line=509 | id=sukma_0011 | approved=False | status=needs_review
+    title=Sukma Village and Panchayat Counts by Tehsil
+    url=https://sukma.gov.in/en/village-panchayats/
+  line=1115 | id=sukma_village_panchayat_table_en_001 | approved=False | status=needs_review
+    title=Sukma Village and Panchayat Counts by Tehsil
+    url=https://sukma.gov.in/en/village-panchayats/
+
+GROUP 120 | records=2
+  line=510 | id=sukma_0012 | approved=False | status=needs_review
+    title=Sukma Subdivisions and Blocks
+    url=https://sukma.gov.in/en/subdivision-blocks/
+  line=1116 | id=sukma_subdivisions_blocks_en_001 | approved=False | status=needs_review
+    title=Sukma Subdivisions and Blocks
+    url=https://sukma.gov.in/en/subdivision-blocks/
+
+GROUP 121 | records=2
+  line=511 | id=sukma_0013 | approved=False | status=needs_review
+    title=Sukma School Statistics by Block — Official Education Page
+    url=https://sukma.gov.in/en/education/
+  line=1117 | id=sukma_education_school_glance_en_001 | approved=False | status=needs_review
+    title=Sukma School Statistics by Block — Official Education Page
+    url=https://sukma.gov.in/en/education/
+
+GROUP 122 | records=2
+  line=512 | id=sukma_0014 | approved=False | status=needs_review
+    title=District Survey Report Sukma — Official 15 October 2026 Listing
+    url=https://sukma.gov.in/en/documents/
+  line=1118 | id=sukma_dsr_2026_metadata_en_001 | approved=False | status=needs_review
+    title=District Survey Report Sukma — Official 15 October 2026 Listing
+    url=https://sukma.gov.in/en/documents/
+
+GROUP 123 | records=2
+  line=513 | id=sukma_0015 | approved=False | status=needs_review
+    title=Sukma Official Statistical Documents Inventory
+    url=https://sukma.gov.in/en/document-category/statistical-report/
+  line=1119 | id=sukma_statistical_documents_inventory_en_001 | approved=False | status=needs_review
+    title=Sukma Official Statistical Documents Inventory
+    url=https://sukma.gov.in/en/document-category/statistical-report/
+
+GROUP 124 | records=2
+  line=514 | id=sukma_0016 | approved=False | status=needs_review
+    title=Sukma History — Timeline and Source Caveats
+    url=https://sukma.gov.in/en/history/
+  line=1120 | id=sukma_history_english_source_note_en_001 | approved=False | status=needs_review
+    title=Sukma History — Timeline and Source Caveats
+    url=https://sukma.gov.in/en/history/
+
+GROUP 125 | records=2
+  line=515 | id=sukma_0017 | approved=False | status=needs_review
+    title=Sukma Tourist Packages — Official Page Status
+    url=https://sukma.gov.in/en/tourist-packages/
+  line=1121 | id=sukma_tourism_packages_status_en_001 | approved=False | status=needs_review
+    title=Sukma Tourist Packages — Official Page Status
+    url=https://sukma.gov.in/en/tourist-packages/
+
+GROUP 126 | records=2
+  line=516 | id=sukma_0018 | approved=False | status=needs_review
+    title=Sukma Administrative Counts — Cross-Page Conflict Note
+    url=https://sukma.gov.in/en/subdivision-blocks/
+  line=1122 | id=sukma_admin_counts_conflict_note_en_001 | approved=False | status=needs_review
+    title=Sukma Administrative Counts — Cross-Page Conflict Note
+    url=https://sukma.gov.in/en/subdivision-blocks/
+
+GROUP 127 | records=2
+  line=517 | id=sukma_0019 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Profile and Geography
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1123 | id=sukma_dsr2026_profile_geography_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Profile and Geography
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 128 | records=2
+  line=518 | id=sukma_0020 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Agriculture and Land Use
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1124 | id=sukma_dsr2026_agriculture_landuse_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Agriculture and Land Use
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 129 | records=2
+  line=519 | id=sukma_0021 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Sand Mining Overview
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1125 | id=sukma_dsr2026_sand_mining_overview_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Sand Mining Overview
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 130 | records=2
+  line=520 | id=sukma_0022 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Sand Production Statistics
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1126 | id=sukma_dsr2026_sand_production_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Sand Production Statistics
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 131 | records=2
+  line=521 | id=sukma_0023 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Mineral and Geological Profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1127 | id=sukma_dsr2026_mineral_profile_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Mineral and Geological Profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 132 | records=2
+  line=522 | id=sukma_0024 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Culture and Tourism Mentions
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1128 | id=sukma_dsr2026_culture_tourism_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Culture and Tourism Mentions
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 133 | records=2
+  line=523 | id=sukma_0025 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Connectivity
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1129 | id=sukma_dsr2026_transport_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Connectivity
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 134 | records=2
+  line=524 | id=sukma_0026 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Source and Data Quality Notes
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+  line=1130 | id=sukma_dsr2026_source_quality_en_001 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2026 — Source and Data Quality Notes
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2026/10/17920649589146.pdf
+
+GROUP 135 | records=2
+  line=525 | id=sukma_0027 | approved=False | status=needs_review
+    title=Tungal Dam — Dedicated Official Tourism Page
+    url=https://sukma.gov.in/en/tourist-place/tungal-dam/
+  line=1131 | id=sukma_tungal_dam_dedicated_page_en_001 | approved=False | status=needs_review
+    title=Tungal Dam — Dedicated Official Tourism Page
+    url=https://sukma.gov.in/en/tourist-place/tungal-dam/
+
+GROUP 136 | records=2
+  line=526 | id=sukma_0028 | approved=False | status=needs_review
+    title=Dornapal Bridge — Dedicated Official Tourism Page
+    url=https://sukma.gov.in/en/tourist-place/dornapal-bridge/
+  line=1132 | id=sukma_dornapal_bridge_dedicated_page_en_001 | approved=False | status=needs_review
+    title=Dornapal Bridge — Dedicated Official Tourism Page
+    url=https://sukma.gov.in/en/tourist-place/dornapal-bridge/
+
+GROUP 137 | records=2
+  line=527 | id=sukma_0029 | approved=False | status=needs_review
+    title=Sukma Accommodation Directory — Official Portal Snapshot
+    url=https://sukma.gov.in/en/accommodation/
+  line=1133 | id=sukma_accommodation_directory_en_001 | approved=False | status=needs_review
+    title=Sukma Accommodation Directory — Official Portal Snapshot
+    url=https://sukma.gov.in/en/accommodation/
+
+GROUP 138 | records=2
+  line=528 | id=sukma_0030 | approved=False | status=needs_review
+    title=Sukma Government Departments — Official Directory
+    url=https://sukma.gov.in/en/departments/
+  line=1134 | id=sukma_department_directory_en_001 | approved=False | status=needs_review
+    title=Sukma Government Departments — Official Directory
+    url=https://sukma.gov.in/en/departments/
+
+GROUP 139 | records=2
+  line=529 | id=sukma_0031 | approved=False | status=needs_review
+    title=Sukma Food and Civil Supplies — Department Functions
+    url=https://sukma.gov.in/en/khadya/
+  line=1135 | id=sukma_food_civil_supplies_functions_en_001 | approved=False | status=needs_review
+    title=Sukma Food and Civil Supplies — Department Functions
+    url=https://sukma.gov.in/en/khadya/
+
+GROUP 140 | records=2
+  line=530 | id=sukma_0032 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17 — Official Document Metadata
+    url=https://sukma.gov.in/en/document-category/statistical-report/
+  line=1136 | id=sukma_statistical_report_2016_17_metadata_en_001 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17 — Official Document Metadata
+    url=https://sukma.gov.in/en/document-category/statistical-report/
+
+GROUP 141 | records=2
+  line=531 | id=sukma_0033 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Administrative and geographic profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1137 | id=sukma-stat-2016-17-admin-profile | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Administrative and geographic profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 142 | records=2
+  line=532 | id=sukma_0034 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Census 2011 population indicators
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1138 | id=sukma-stat-2016-17-census-demography | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Census 2011 population indicators
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 143 | records=2
+  line=533 | id=sukma_0035 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Historical rainfall observations
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1139 | id=sukma-stat-2016-17-rainfall | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Historical rainfall observations
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 144 | records=2
+  line=534 | id=sukma_0036 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Education and health infrastructure
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1140 | id=sukma-stat-2016-17-education-health | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Education and health infrastructure
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 145 | records=2
+  line=535 | id=sukma_0037 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Land use, forests and agriculture tables
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1141 | id=sukma-stat-2016-17-land-forest-agriculture | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Land use, forests and agriculture tables
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 146 | records=2
+  line=536 | id=sukma_0038 | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Subject coverage and extraction status
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+  line=1142 | id=sukma-stat-2016-17-report-index | approved=False | status=needs_review
+    title=Sukma District Statistical Report 2016–17: Subject coverage and extraction status
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122642.pdf
+
+GROUP 147 | records=2
+  line=537 | id=sukma_0039 | approved=False | status=needs_review
+    title=A brief introduction to District Sukma (2017): historical administrative profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122977.pdf
+  line=1143 | id=sukma-brief-introduction-2017 | approved=False | status=needs_review
+    title=A brief introduction to District Sukma (2017): historical administrative profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122977.pdf
+
+GROUP 148 | records=2
+  line=538 | id=sukma_0040 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Agro-climatic profile and rainfall
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1144 | id=sukma-nabard-plp-2016-17-agro-climate | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Agro-climatic profile and rainfall
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 149 | records=2
+  line=539 | id=sukma_0041 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Land use and cropping
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1145 | id=sukma-nabard-plp-2016-17-land-use | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Land use and cropping
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 150 | records=2
+  line=540 | id=sukma_0042 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Distribution of agricultural landholdings
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1146 | id=sukma-nabard-plp-2016-17-landholdings | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Distribution of agricultural landholdings
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 151 | records=2
+  line=541 | id=sukma_0043 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Worker profile
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1147 | id=sukma-nabard-plp-2016-17-workers | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Worker profile
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 152 | records=2
+  line=542 | id=sukma_0044 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Demographic profile
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1148 | id=sukma-nabard-plp-2016-17-demography | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Demographic profile
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 153 | records=2
+  line=543 | id=sukma_0045 | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Village and health infrastructure
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+  line=1149 | id=sukma-nabard-plp-2016-17-village-infrastructure | approved=False | status=needs_review
+    title=Sukma Potential Linked Credit Plan 2016–17: Village and health infrastructure
+    url=https://www.nabard.org/auth/writereaddata/tender/2110164716Sukma%20Chapters%20%20Consolidated.split-and-merged.pdf
+
+GROUP 154 | records=2
+  line=544 | id=sukma_0046 | approved=False | status=needs_review
+    title=Sukma Health Department: Health facility counts by block
+    url=https://sukma.gov.in/en/health/
+  line=1150 | id=sukma-health-centres-official-page | approved=False | status=needs_review
+    title=Sukma Health Department: Health facility counts by block
+    url=https://sukma.gov.in/en/health/
+
+GROUP 155 | records=2
+  line=545 | id=sukma_0047 | approved=False | status=needs_review
+    title=Sukma Agriculture Department: Official department page inventory
+    url=https://sukma.gov.in/en/agriculture/
+  line=1151 | id=sukma-agriculture-department-overview | approved=False | status=needs_review
+    title=Sukma Agriculture Department: Official department page inventory
+    url=https://sukma.gov.in/en/agriculture/
+
+GROUP 156 | records=2
+  line=546 | id=sukma_0048 | approved=False | status=needs_review
+    title=Sukma land survey and resurvey status: Government of India DILRMP dashboard
+    url=https://dilrmp.gov.in/dilrmpold/PhyscialComponent/SurveyResurvey/district-level/22
+  line=1152 | id=sukma-dilrmp-survey-resurvey-status | approved=False | status=needs_review
+    title=Sukma land survey and resurvey status: Government of India DILRMP dashboard
+    url=https://dilrmp.gov.in/dilrmpold/PhyscialComponent/SurveyResurvey/district-level/22
+
+GROUP 157 | records=2
+  line=547 | id=sukma_0049 | approved=False | status=needs_review
+    title=Sukma watershed baseline survey: Land classification and cropped area
+    url=https://wdcpmksy.dolr.gov.in/blsrptproj?id=642
+  line=1153 | id=sukma-watershed-land-use-baseline | approved=False | status=needs_review
+    title=Sukma watershed baseline survey: Land classification and cropped area
+    url=https://wdcpmksy.dolr.gov.in/blsrptproj?id=642
+
+GROUP 158 | records=2
+  line=548 | id=sukma_0050 | approved=False | status=needs_review
+    title=Sukma Bank BC List: Official district document inventory
+    url=https://sukma.gov.in/en/documents/
+  line=1154 | id=sukma-bank-bc-list-metadata | approved=False | status=needs_review
+    title=Sukma Bank BC List: Official district document inventory
+    url=https://sukma.gov.in/en/documents/
+
+GROUP 159 | records=2
+  line=549 | id=sukma_0051 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Official document metadata
+    url=https://sukma.gov.in/en/document/district-survey-report/
+  line=1155 | id=sukma-district-survey-report-2025-metadata | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Official document metadata
+    url=https://sukma.gov.in/en/document/district-survey-report/
+
+GROUP 160 | records=2
+  line=550 | id=sukma_0052 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Geographic and administrative profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1156 | id=sukma-dsr-2025-general-profile | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Geographic and administrative profile
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 161 | records=2
+  line=551 | id=sukma_0053 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Geology and mineral resources
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1157 | id=sukma-dsr-2025-geology-minerals | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Geology and mineral resources
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 162 | records=2
+  line=552 | id=sukma_0054 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Mining leases and royalty figures
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1158 | id=sukma-dsr-2025-mining-leases-revenue | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Mining leases and royalty figures
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 163 | records=2
+  line=553 | id=sukma_0055 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Sand production and royalty, FY 2020–21 to 2024–25
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1159 | id=sukma-dsr-2025-sand-production | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Sand production and royalty, FY 2020–21 to 2024–25
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 164 | records=2
+  line=554 | id=sukma_0056 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Forest cover, agriculture and irrigation
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1160 | id=sukma-dsr-2025-land-use-agriculture | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: Forest cover, agriculture and irrigation
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 165 | records=2
+  line=555 | id=sukma_0057 | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: River system and sand replenishment study
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+  line=1161 | id=sukma-dsr-2025-rivers-sand-replenishment | approved=False | status=needs_review
+    title=Sukma District Survey Report 2025: River system and sand replenishment study
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2025/11/17642312152765.pdf
+
+GROUP 166 | records=2
+  line=556 | id=sukma_0058 | approved=False | status=needs_review
+    title=Animal Husbandry and Livestock Statistics in Sukma
+    url=https://sukma.gov.in/en/animal-husbandry/
+  line=1162 | id=sukma_animal_husbandry_en_001 | approved=False | status=needs_review
+    title=Animal Husbandry and Livestock Statistics in Sukma
+    url=https://sukma.gov.in/en/animal-husbandry/
+
+GROUP 167 | records=2
+  line=557 | id=sukma_0059 | approved=False | status=needs_review
+    title=School Inventory and Education Challenges in Sukma
+    url=https://sukma.gov.in/en/education/
+  line=1163 | id=sukma_education_school_inventory_en_001 | approved=False | status=needs_review
+    title=School Inventory and Education Challenges in Sukma
+    url=https://sukma.gov.in/en/education/
+
+GROUP 168 | records=2
+  line=558 | id=sukma_0060 | approved=False | status=needs_review
+    title=आदिवासी कल्याण: छात्रावास, आश्रम और छात्रवृत्ति योजनाएँ
+    url=https://sukma.gov.in/en/tribal-welfare/
+  line=1164 | id=sukma_tribal_welfare_hostels_scholarships_hi_001 | approved=False | status=needs_review
+    title=आदिवासी कल्याण: छात्रावास, आश्रम और छात्रवृत्ति योजनाएँ
+    url=https://sukma.gov.in/en/tribal-welfare/
+
+GROUP 169 | records=2
+  line=559 | id=sukma_0061 | approved=False | status=needs_review
+    title=Tribal Welfare: Residential Institutions and Scholarships in Sukma
+    url=https://sukma.gov.in/en/tribal-welfare/
+  line=1165 | id=sukma_tribal_welfare_hostels_scholarships_en_001 | approved=False | status=needs_review
+    title=Tribal Welfare: Residential Institutions and Scholarships in Sukma
+    url=https://sukma.gov.in/en/tribal-welfare/
+
+GROUP 170 | records=2
+  line=560 | id=sukma_0062 | approved=False | status=needs_review
+    title=सुकमा जिला परिचय पुस्तिका (2017): प्रशासनिक और सार्वजनिक सेवाओं का ऐतिहासिक स्नैपशॉट
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122977.pdf
+  line=1166 | id=sukma_brief_introduction_2017_admin_services_hi_001 | approved=False | status=needs_review
+    title=सुकमा जिला परिचय पुस्तिका (2017): प्रशासनिक और सार्वजनिक सेवाओं का ऐतिहासिक स्नैपशॉट
+    url=https://cdn.s3waas.gov.in/s358d4d1e7b1e97b258c9ed0b37e02d087/uploads/2018/12/2018122977.pdf
+
+GROUP 171 | records=2
+  line=561 | id=sukma_0063 | approved=False | status=needs_review
+    title=Sukma District Department Pages: Content Coverage and Retrieval Limits
+    url=https://sukma.gov.in/en/departments/
+  line=1167 | id=sukma_department_page_coverage_gaps_en_001 | approved=False | status=needs_review
+    title=Sukma District Department Pages: Content Coverage and Retrieval Limits
+    url=https://sukma.gov.in/en/departments/
+
+GROUP 172 | records=2
+  line=599 | id=raipur_extracted_0010 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: district-wide total workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1168 | id=raipur_census_extract_0001 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: district-wide total workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 173 | records=2
+  line=600 | id=raipur_extracted_0011 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: main workers and marginal workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1169 | id=raipur_census_extract_0002 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: main workers and marginal workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 174 | records=2
+  line=601 | id=raipur_extracted_0012 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: worker category distribution
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1170 | id=raipur_census_extract_0003 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: worker category distribution
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 175 | records=2
+  line=602 | id=raipur_extracted_0013 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: non-workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1171 | id=raipur_census_extract_0004 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: non-workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 176 | records=2
+  line=603 | id=raipur_extracted_0014 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Simga CD block workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1172 | id=raipur_census_extract_0005 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Simga CD block workers
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 177 | records=2
+  line=604 | id=raipur_extracted_0015 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Simga block village Hirmi
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1173 | id=raipur_census_extract_0006 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Simga block village Hirmi
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 178 | records=2
+  line=605 | id=raipur_extracted_0016 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Scheduled Tribe PCA district summary
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1174 | id=raipur_census_extract_0007 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: Scheduled Tribe PCA district summary
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 179 | records=2
+  line=606 | id=raipur_extracted_0017 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: village-level PCA schema
+    url=https://censusindia.gov.in/nada/index.php/catalog/6601
+  line=1175 | id=raipur_census_extract_0008 | approved=False | status=needs_review
+    title=Raipur DCHB 2011: village-level PCA schema
+    url=https://censusindia.gov.in/nada/index.php/catalog/6601
+
+GROUP 180 | records=2
+  line=607 | id=raipur_extracted_0018 | approved=False | status=needs_review
+    title=Raipur district historical-boundary warning
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1176 | id=raipur_census_extract_0009 | approved=False | status=needs_review
+    title=Raipur district historical-boundary warning
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 181 | records=2
+  line=608 | id=raipur_extracted_0019 | approved=False | status=needs_review
+    title=Raipur Census source details and coverage
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+  line=1177 | id=raipur_census_extract_0010 | approved=False | status=needs_review
+    title=Raipur Census source details and coverage
+    url=https://censusindia.gov.in/nada/index.php/catalog/331/download/974/DH_2011_2211_PART_B_DCHB_RAIPUR.pdf
+
+GROUP 182 | records=18
+  line=609 | id=census2011_pca_sd_chhattisgarh_400 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_400
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=610 | id=census2011_pca_sd_chhattisgarh_401 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_401
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=611 | id=census2011_pca_sd_chhattisgarh_402 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_402
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=612 | id=census2011_pca_sd_chhattisgarh_403 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_403
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=613 | id=census2011_pca_sd_chhattisgarh_404 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_404
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=614 | id=census2011_pca_sd_chhattisgarh_405 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_405
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=615 | id=census2011_pca_sd_chhattisgarh_406 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_406
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=616 | id=census2011_pca_sd_chhattisgarh_407 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_407
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=617 | id=census2011_pca_sd_chhattisgarh_408 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_408
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=618 | id=census2011_pca_sd_chhattisgarh_409 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_409
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=619 | id=census2011_pca_sd_chhattisgarh_410 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_410
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=620 | id=census2011_pca_sd_chhattisgarh_411 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_411
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=621 | id=census2011_pca_sd_chhattisgarh_412 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_412
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=622 | id=census2011_pca_sd_chhattisgarh_413 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_413
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=623 | id=census2011_pca_sd_chhattisgarh_414 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_414
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=624 | id=census2011_pca_sd_chhattisgarh_415 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_415
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=625 | id=census2011_pca_sd_chhattisgarh_416 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_416
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191
+  line=626 | id=census2011_pca_sd_chhattisgarh_417 | approved=False | status=needs_review
+    title=census2011_pca_sd_chhattisgarh_417
+    url=https://censusindia.gov.in/nada/index.php/catalog/6191

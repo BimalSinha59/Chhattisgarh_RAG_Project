@@ -1,0 +1,611 @@
+{
+  "archive": "chhattisgarhi_all_created_datasets_and_toolkits_v1(1).zip",
+  "members": [
+    {
+      "path": "CHHATTISGARHI_DATASET_BUNDLE_README.json",
+      "size_bytes": 4177,
+      "format": "json",
+      "record_count": 47
+    },
+    {
+      "path": "chhattisgarh_all_33_district_datasets_bundle.zip",
+      "size_bytes": 553009,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarh_statewide_pilot_master.jsonl",
+      "size_bytes": 538630,
+      "format": "jsonl",
+      "record_count": 608,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarh_statewide_pilot_master.csv",
+      "size_bytes": 422090,
+      "format": "csv",
+      "record_count": 616,
+      "headers": [
+        "document_id",
+        "title",
+        "topic",
+        "content",
+        "source_url",
+        "language",
+        "publication_date",
+        "collection_date",
+        "quality_flag",
+        "district",
+        "original_document_id",
+        "dataset_status",
+        "source_section",
+        "source_excerpt",
+        "extraction_method",
+        "record_id",
+        "state",
+        "historical_district_name_2011",
+        "census_district_location_code",
+        "reference_year",
+        "data_source",
+        "dataset_title",
+        "dataset_reference_id",
+        "download_file",
+        "record_type",
+        "extraction_status",
+        "manual_review_required",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarh_dataset_inventory.csv",
+      "size_bytes": 3753,
+      "format": "csv",
+      "record_count": 33,
+      "headers": [
+        "district",
+        "records",
+        "status",
+        "dataset_file"
+      ]
+    },
+    {
+      "path": "chhattisgarh_33_district_collection_tracker.csv",
+      "size_bytes": 4413,
+      "format": "csv",
+      "record_count": 33,
+      "headers": [
+        "district",
+        "status",
+        "records",
+        "dataset_file"
+      ]
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_dataset_bundle_v11.zip",
+      "size_bytes": 75626,
+      "format": "nested_zip"
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_dataset_v9.jsonl",
+      "size_bytes": 181822,
+      "format": "jsonl",
+      "record_count": 193,
+      "invalid_lines": 0
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_dataset_v9.csv",
+      "size_bytes": 138388,
+      "format": "csv",
+      "record_count": 193,
+      "headers": [
+        "record_id",
+        "title",
+        "title_native",
+        "category",
+        "description",
+        "source_url",
+        "source_title",
+        "language",
+        "region",
+        "extraction_status",
+        "quality_flag",
+        "content_type",
+        "manual_review_required",
+        "copyright_note"
+      ]
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_batch9.jsonl",
+      "size_bytes": 13756,
+      "format": "jsonl",
+      "record_count": 15,
+      "invalid_lines": 0
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_batch9.csv",
+      "size_bytes": 10834,
+      "format": "csv",
+      "record_count": 15,
+      "headers": [
+        "record_id",
+        "title",
+        "title_native",
+        "category",
+        "description",
+        "source_url",
+        "source_title",
+        "language",
+        "region",
+        "extraction_status",
+        "quality_flag",
+        "content_type"
+      ]
+    },
+    {
+      "path": "ignca_chhattisgarh_cultural_batch9_review.csv",
+      "size_bytes": 4504,
+      "format": "csv",
+      "record_count": 15,
+      "headers": [
+        "record_id",
+        "title",
+        "source_url",
+        "review_status",
+        "main_caveat",
+        "recommended_next_action"
+      ]
+    },
+    {
+      "path": "ignca_chhattisgarh_hana_theme_summary.csv",
+      "size_bytes": 8894,
+      "format": "csv",
+      "record_count": 15,
+      "headers": [
+        "record_id",
+        "record_type",
+        "category",
+        "summary",
+        "source_title",
+        "source_url",
+        "source_creator",
+        "source_copyright_notice",
+        "extraction_status",
+        "manual_review_required",
+        "usage_note"
+      ]
+    },
+    {
+      "path": "ignca_chhattisgarh_hana_theme_summary.jsonl",
+      "size_bytes": 11997,
+      "format": "jsonl",
+      "record_count": 15,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_language_resource_catalog.csv",
+      "size_bytes": 3933,
+      "format": "csv",
+      "record_count": 8,
+      "headers": [
+        "resource_id",
+        "name",
+        "provider",
+        "resource_type",
+        "reported_size",
+        "url",
+        "best_use_for_project",
+        "access_or_rights_note",
+        "collection_status",
+        "priority"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_language_resource_catalog.jsonl",
+      "size_bytes": 5292,
+      "format": "jsonl",
+      "record_count": 8,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_language_resource_catalog_bundle.zip",
+      "size_bytes": 3639,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_swadesh_wordlist_batch1.csv",
+      "size_bytes": 48484,
+      "format": "csv",
+      "record_count": 100,
+      "headers": [
+        "record_id",
+        "concept_english",
+        "hindi_gloss",
+        "chhattisgarhi_form_ipa_as_published",
+        "language",
+        "script_or_transcription",
+        "source_title",
+        "source_url",
+        "source_entry_number",
+        "extraction_status",
+        "quality_flag",
+        "verification_status",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_swadesh_wordlist_batch1.jsonl",
+      "size_bytes": 76557,
+      "format": "jsonl",
+      "record_count": 100,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_swadesh_wordlist_batch1_review.csv",
+      "size_bytes": 33920,
+      "format": "csv",
+      "record_count": 100,
+      "headers": [
+        "record_id",
+        "source_entry_number",
+        "concept_english",
+        "hindi_gloss",
+        "chhattisgarhi_form_ipa_as_published",
+        "source_url",
+        "quality_flag",
+        "verification_status",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_language_dataset_starter_bundle_v1.zip",
+      "size_bytes": 11082,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_everyday_sentence_pairs_batch2.csv",
+      "size_bytes": 8705,
+      "format": "csv",
+      "record_count": 30,
+      "headers": [
+        "record_id",
+        "category",
+        "english",
+        "hindi",
+        "chhattisgarhi_devanagari_draft",
+        "chhattisgarhi_romanization_draft",
+        "source_type",
+        "source_url",
+        "verification_status",
+        "quality_flag",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_everyday_sentence_pairs_batch2.jsonl",
+      "size_bytes": 15321,
+      "format": "jsonl",
+      "record_count": 30,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_everyday_sentence_pairs_batch2_review.csv",
+      "size_bytes": 6539,
+      "format": "csv",
+      "record_count": 30,
+      "headers": [
+        "record_id",
+        "category",
+        "english",
+        "hindi",
+        "chhattisgarhi_devanagari_draft",
+        "chhattisgarhi_romanization_draft",
+        "verification_status",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_language_dataset_starter_bundle_v2.zip",
+      "size_bytes": 7663,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_grammar_patterns_batch3.csv",
+      "size_bytes": 7814,
+      "format": "csv",
+      "record_count": 30,
+      "headers": [
+        "record_id",
+        "grammar_category",
+        "function_or_example_english",
+        "hindi_equivalent",
+        "chhattisgarhi_candidate",
+        "romanization_candidate",
+        "rule_or_pattern",
+        "source_type",
+        "source_url",
+        "verification_status",
+        "quality_flag",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_grammar_patterns_batch3.jsonl",
+      "size_bytes": 15712,
+      "format": "jsonl",
+      "record_count": 30,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_grammar_patterns_batch3_review.csv",
+      "size_bytes": 5422,
+      "format": "csv",
+      "record_count": 30,
+      "headers": [
+        "record_id",
+        "grammar_category",
+        "function_or_example_english",
+        "hindi_equivalent",
+        "chhattisgarhi_candidate",
+        "romanization_candidate",
+        "verification_status",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_language_dataset_starter_bundle_v3.zip",
+      "size_bytes": 6795,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_parallel_corpus_intake_bundle_v1.zip",
+      "size_bytes": 2831,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_corpus_acquisition_tracker_v1.csv",
+      "size_bytes": 1411,
+      "format": "csv",
+      "record_count": 6,
+      "headers": [
+        "source",
+        "landing_page",
+        "purpose",
+        "must_confirm",
+        "project_status",
+        "priority"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_corpus_acquisition_action_plan_v1.txt",
+      "size_bytes": 5027,
+      "format": "txt",
+      "record_count": null
+    },
+    {
+      "path": "chhattisgarhi_native_speaker_elicitation_sheet_v1.csv",
+      "size_bytes": 10117,
+      "format": "csv",
+      "record_count": 102,
+      "headers": [
+        "elicitation_id",
+        "category",
+        "elicitation_prompt_english",
+        "chhattisgarhi_response_original",
+        "chhattisgarhi_devanagari_normalized",
+        "hindi_translation",
+        "english_translation",
+        "romanization_optional",
+        "district_or_region",
+        "village_or_city_optional",
+        "speaker_age_band_optional",
+        "speaker_language_background",
+        "register",
+        "audio_file_reference_optional",
+        "speaker_consent_recorded",
+        "reviewer_initials",
+        "review_status",
+        "notes"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_native_speaker_elicitation_sheet_v1.jsonl",
+      "size_bytes": 59505,
+      "format": "jsonl",
+      "record_count": 102,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_language_collection_toolkit_v1.zip",
+      "size_bytes": 6730,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_nlp_source_toolkit_v2.zip",
+      "size_bytes": 4346,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_nlp_dataset_source_catalog_v2.csv",
+      "size_bytes": 3567,
+      "format": "csv",
+      "record_count": 5,
+      "headers": [
+        "resource_id",
+        "name",
+        "task",
+        "format",
+        "url",
+        "direct_train_url",
+        "direct_dev_url",
+        "direct_test_url",
+        "what_it_contains",
+        "best_use",
+        "caution",
+        "license",
+        "status"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_data_governance_and_inventory_bundle_v1.zip",
+      "size_bytes": 5379,
+      "format": "nested_zip"
+    },
+    {
+      "path": "chhattisgarhi_language_dataset_master_inventory_v1.csv",
+      "size_bytes": 3426,
+      "format": "csv",
+      "record_count": 11,
+      "headers": [
+        "inventory_id",
+        "dataset_or_asset",
+        "filename",
+        "exists_in_workspace",
+        "rows_or_records_if_countable",
+        "data_type_and_provenance",
+        "intended_role",
+        "next_quality_action",
+        "important_caveat",
+        "status"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_language_dataset_master_inventory_v1.jsonl",
+      "size_bytes": 5750,
+      "format": "jsonl",
+      "record_count": 11,
+      "invalid_lines": 0
+    },
+    {
+      "path": "chhattisgarhi_rag_ingestion_toolkit_v1.zip",
+      "size_bytes": 5067,
+      "format": "nested_zip"
+    },
+    {
+      "path": "prepare_chhattisgarhi_rag_ingestion.py",
+      "size_bytes": 7424
+    },
+    {
+      "path": "chhattisgarhi_rag_record_schema_v1.json",
+      "size_bytes": 838,
+      "format": "json",
+      "record_count": 1
+    },
+    {
+      "path": "chhattisgarhi_rag_ingestion_guide_v1.txt",
+      "size_bytes": 2205,
+      "format": "txt",
+      "record_count": null
+    },
+    {
+      "path": "chhattisgarhi_rag_input_template.jsonl",
+      "size_bytes": 420,
+      "format": "jsonl",
+      "record_count": 1,
+      "invalid_lines": 0
+    },
+    {
+      "path": "normalize_chhattisgarhi_parallel_corpus.py",
+      "size_bytes": 8074
+    },
+    {
+      "path": "chhattisgarhi_parallel_corpus_normalized_schema_v1.json",
+      "size_bytes": 757,
+      "format": "json",
+      "record_count": 1
+    },
+    {
+      "path": "chhattisgarhi_parallel_corpus_intake_guide_v1.txt",
+      "size_bytes": 2404,
+      "format": "txt",
+      "record_count": null
+    },
+    {
+      "path": "13-Hamari Geet Kitab.pdf",
+      "size_bytes": 8887930
+    },
+    {
+      "path": "14-Hamra Kitab Raipur (Chhattisgarhi) Shaitan Kallu.pdf",
+      "size_bytes": 5777790
+    },
+    {
+      "path": "chhattisgarhi_uploaded_books_ocr.csv",
+      "size_bytes": 45925,
+      "format": "csv",
+      "record_count": 36,
+      "headers": [
+        "record_id",
+        "source_file",
+        "page_number",
+        "title",
+        "language",
+        "content_type",
+        "text",
+        "ocr_method",
+        "review_status"
+      ]
+    },
+    {
+      "path": "chhattisgarhi_uploaded_books_ocr.json",
+      "size_bytes": 52534,
+      "format": "json",
+      "record_count": 36
+    },
+    {
+      "path": "chhattisgarhi_uploaded_books_ocr.jsonl",
+      "size_bytes": 50984,
+      "format": "jsonl",
+      "record_count": 36,
+      "invalid_lines": 0
+    },
+    {
+      "path": "hamari_geet_kitab.csv",
+      "size_bytes": 41207,
+      "format": "csv",
+      "record_count": 28,
+      "headers": [
+        "record_id",
+        "source_file",
+        "page_number",
+        "title",
+        "language",
+        "content_type",
+        "text",
+        "ocr_method",
+        "review_status"
+      ]
+    },
+    {
+      "path": "hamari_geet_kitab.json",
+      "size_bytes": 46421,
+      "format": "json",
+      "record_count": 28
+    },
+    {
+      "path": "hamra_kitab_raipur_shaitan_kallu.csv",
+      "size_bytes": 4832,
+      "format": "csv",
+      "record_count": 8,
+      "headers": [
+        "record_id",
+        "source_file",
+        "page_number",
+        "title",
+        "language",
+        "content_type",
+        "text",
+        "ocr_method",
+        "review_status"
+      ]
+    },
+    {
+      "path": "hamra_kitab_raipur_shaitan_kallu.json",
+      "size_bytes": 6115,
+      "format": "json",
+      "record_count": 8
+    }
+  ],
+  "notes": [
+    "Counts are structural counts, not unique records.",
+    "This does not validate permissions, facts, or native-speaker quality.",
+    "Nested ZIPs are listed but not recursively audited in this first pass."
+  ]
+}
